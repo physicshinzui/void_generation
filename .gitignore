@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.pse
+*.swp
+/data*/
+/cryptic*/
+/src/enum_type.mod
